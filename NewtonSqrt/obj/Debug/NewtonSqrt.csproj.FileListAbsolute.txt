@@ -1,0 +1,5 @@
+c:\users\nikol\documents\visual studio 2015\Projects\NewtonSqrt\NewtonSqrt\bin\Debug\NewtonSqrt.dll
+c:\users\nikol\documents\visual studio 2015\Projects\NewtonSqrt\NewtonSqrt\bin\Debug\NewtonSqrt.pdb
+c:\users\nikol\documents\visual studio 2015\Projects\NewtonSqrt\NewtonSqrt\obj\Debug\NewtonSqrt.csprojResolveAssemblyReference.cache
+c:\users\nikol\documents\visual studio 2015\Projects\NewtonSqrt\NewtonSqrt\obj\Debug\NewtonSqrt.dll
+c:\users\nikol\documents\visual studio 2015\Projects\NewtonSqrt\NewtonSqrt\obj\Debug\NewtonSqrt.pdb

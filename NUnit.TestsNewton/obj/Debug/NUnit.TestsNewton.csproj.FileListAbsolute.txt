@@ -1,0 +1,9 @@
+c:\users\nikol\documents\visual studio 2015\Projects\NewtonSqrt\NUnit.TestsNewton\bin\Debug\NUnit.TestsNewton.dll
+c:\users\nikol\documents\visual studio 2015\Projects\NewtonSqrt\NUnit.TestsNewton\bin\Debug\NUnit.TestsNewton.pdb
+c:\users\nikol\documents\visual studio 2015\Projects\NewtonSqrt\NUnit.TestsNewton\bin\Debug\NewtonSqrt.dll
+c:\users\nikol\documents\visual studio 2015\Projects\NewtonSqrt\NUnit.TestsNewton\bin\Debug\nunit.framework.dll
+c:\users\nikol\documents\visual studio 2015\Projects\NewtonSqrt\NUnit.TestsNewton\bin\Debug\NewtonSqrt.pdb
+c:\users\nikol\documents\visual studio 2015\Projects\NewtonSqrt\NUnit.TestsNewton\bin\Debug\nunit.framework.xml
+c:\users\nikol\documents\visual studio 2015\Projects\NewtonSqrt\NUnit.TestsNewton\obj\Debug\NUnit.TestsNewton.csprojResolveAssemblyReference.cache
+c:\users\nikol\documents\visual studio 2015\Projects\NewtonSqrt\NUnit.TestsNewton\obj\Debug\NUnit.TestsNewton.dll
+c:\users\nikol\documents\visual studio 2015\Projects\NewtonSqrt\NUnit.TestsNewton\obj\Debug\NUnit.TestsNewton.pdb
