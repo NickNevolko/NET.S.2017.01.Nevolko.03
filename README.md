@@ -1,4 +1,4 @@
-# NET.S.2017.01.Nevolko.03
+# NET.S.2017.01.Nevolko.04
 
 1.  Написать тесты к дням 2 и 3. Ссылки:
    *  day 2 - https://github.com/NickNevolko/NET.S.2017.01Nevolko.01
