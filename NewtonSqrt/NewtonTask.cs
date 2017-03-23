@@ -28,7 +28,7 @@ namespace NewtonSqrt
 
             if (eps < 0)
             {
-                throw new ArgumentException(nameof(eps));
+                throw new ArgumentException(nameof(eps)); //ToDo fix
             }
 
             double x = number / 2;

@@ -1,0 +1,5 @@
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NewtonSqrt\Permutations\bin\Debug\Permutations.dll
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NewtonSqrt\Permutations\bin\Debug\Permutations.pdb
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NewtonSqrt\Permutations\obj\Debug\Permutations.dll
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NewtonSqrt\Permutations\obj\Debug\Permutations.pdb
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NewtonSqrt\Permutations\obj\Debug\Permutations.csprojResolveAssemblyReference.cache

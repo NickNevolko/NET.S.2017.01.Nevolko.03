@@ -1,0 +1,9 @@
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NewtonSqrt\Permutation.Tests\bin\Debug\Permutation.Tests.dll
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NewtonSqrt\Permutation.Tests\bin\Debug\Permutation.Tests.pdb
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NewtonSqrt\Permutation.Tests\bin\Debug\nunit.framework.dll
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NewtonSqrt\Permutation.Tests\bin\Debug\Permutations.dll
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NewtonSqrt\Permutation.Tests\bin\Debug\Permutations.pdb
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NewtonSqrt\Permutation.Tests\bin\Debug\nunit.framework.xml
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NewtonSqrt\Permutation.Tests\obj\Debug\Permutation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NewtonSqrt\Permutation.Tests\obj\Debug\Permutation.Tests.dll
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\NewtonSqrt\Permutation.Tests\obj\Debug\Permutation.Tests.pdb
