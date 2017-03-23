@@ -7,8 +7,16 @@ using System.Threading.Tasks;
 
 namespace Permutations
 {
+    /// <summary>
+    /// Class which has a static methods that calculate next permutation 
+    /// </summary>
     public static class Permutation
     {
+        /// <summary>
+        /// this static method calculate a next permutation for int value
+        /// </summary>
+        /// <param name="number">integer parameter</param>
+        /// <returns>returns a next permutation for integer value</returns>
         public static int NextBiggerInteger(int number)
         {
             int[] buff = new int[number.ToString().Length];
@@ -42,7 +50,11 @@ namespace Permutations
             Array.Reverse(perm, swap_index + 1, perm.Length - (swap_index + 1));
             return ConvertResult(perm);
         }
-
+        /// <summary>
+        /// convertor for integer array
+        /// </summary>
+        /// <param name="arr"></param>
+        /// <returns>returns integer value</returns>
         private static int ConvertResult(int[] arr)
         {
             string buffer = String.Empty;
